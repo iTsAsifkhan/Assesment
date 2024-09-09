@@ -1,0 +1,17 @@
+footer {
+    background-color: #444; /* Adjust dark background color */
+    color: #ddd; /* Adjust text color */
+  }
+  
+  footer a {
+    color: #ddd; /* Light text color for links */
+  }
+  
+  footer a:hover {
+    color: #f1c40f; /* Color on hover */
+  }
+  
+  footer .fab {
+    font-size: 1.2rem; /* Font size for social icons */
+  }
+  
